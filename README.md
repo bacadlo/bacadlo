@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bacadlo&label=Profile%20views&color=0e75b6&style=flat" alt="bacadlo" /> </p>
 
-- 🔭 I’m currently working on ... a machine learning model to select the best fantasy premier league team
+- 🔭 I’m currently working on ... a machine learning model to select the best Fantasy Premier League team
 - 🌱 I’m currently interested in ... autonomous task automation and machine learning
 - 👯 I’m looking to collaborate on ... ML projects
 - 💬 Ask me about ... how to run a marathon
