@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bacadlo&label=Profile%20views&color=0e75b6&style=flat" alt="bacadlo" /> </p>
  
-- - 🔭 Currently building ... production-ready ML pipelines for FPL predictions
+- 🔭 Currently building ... production-ready ML pipelines for FPL predictions
 - 🌱 Interested in ... containerized microservices for real-time data processing on entertainment platforms 
 - 👯 Looking to collaborate on ... backend infrastructure, ML deployment, data-intensive applications
 - 💬 Ask me about ... REST APIs, containerization, or marathon training
