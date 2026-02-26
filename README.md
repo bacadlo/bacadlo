@@ -13,7 +13,7 @@
 
 ### About Me
 
-- 🌱 Interested in - Real-time data processing, performance optimization, and systems that stay up under load
+- 🌱 Interested in - Real-time data processing, performance optimization, and automating tasks and systems
 - 👯 Looking to collaborate on - Production AI/ML integrations, API designs, or anything data-heavy, useful, and fun
 - 💬 Ask me about - Containerization, REST APIs, or why your Fantasy Premier League(FPL) captain pick was wrong lol
 - ⚡ Fun fact - I reverse-engineered Cloudflare bot protection just to get my watched anime history. Also, Zebra stripes are unique to each, like fingerprints
